@@ -15,22 +15,22 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 王晨安的人生经历 # the main title
+title: 王晨安 # the main title
 
-tagline: test3 # it will display as the subtitle
+tagline: theory of question # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, resp1111ture-rich Jekyll theme for technical writing.
+  在量化交易路上努力不亏钱的宽客
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://lyoid.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: lyoid # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
+# twitter:
+#   username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -39,8 +39,8 @@ social:
   email: wannaseec@126.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://www.zhihu.com/people/lyoid # change to your Twitter homepage
+    - https://github.com/lyoid # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -76,7 +76,7 @@ analytics:
 
 # Page views settings
 pageviews:
-  provider: # now only supports 'goatcounter'
+  provider: goatcounter # now only supports 'goatcounter'
 
 # Prefer color scheme setting.
 #
