@@ -17,7 +17,7 @@ timezone: Asia/Shanghai
 
 title: 王晨安的人生经历 # the main title
 
-tagline: A textqw213123l theme # it will display as the subtitle
+tagline: test3 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, resp1111ture-rich Jekyll theme for technical writing.
@@ -103,7 +103,7 @@ avatar:
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: "assets/images/dog.jpeg" # string, local or CORS resources
+social_preview_image: "/assets/images/dog.jpeg" # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
