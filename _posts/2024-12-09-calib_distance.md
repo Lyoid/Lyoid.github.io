@@ -12,6 +12,7 @@ render_with_liquid: false
 # 原理
 
 已知像素坐标系转像空间坐标系如下：
+
 $$\begin{bmatrix}
  u  \\
  v  \\
@@ -29,8 +30,11 @@ $$\begin{bmatrix}
  Y_w/Z_w  \\
  1
 \end{bmatrix}$$
+
 抽取第二行公式：
+
 $$v = f_y * Y_w/Z_w + c_y$$
+
 分析已知条件：
 - 相机高度Y_w工厂标定给出
 - 内参f_y,c_y 模组厂给出。
