@@ -1,5 +1,5 @@
 ---
-title: 
+title: 图像在裁剪和缩放后的内参变化
 author: lyoid
 date: 2024-12-09 14:10:00 +0800
 categories: [Algo]
